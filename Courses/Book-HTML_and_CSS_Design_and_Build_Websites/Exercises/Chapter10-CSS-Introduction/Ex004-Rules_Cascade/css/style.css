@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: "Coutrier New", monospace;
+}
+
+i {
+        color: rgb(0, 159, 0)
+}
+
+i {
+    color: red;
+}
+
+b {
+    color: pink;
+}
+
+p b {
+    color: blue !important
+}
+
+p b {
+    color: violet
+}
+
+p#intro {
+    font-size: 150%;
+}
+
+p {
+    font-size: 75%;
+}
