@@ -1,0 +1,21 @@
+input {
+    padding: 6px 12px 6px 12px; 
+    border: 1px solid #ff8d1c;
+    color: #ff4d4d
+}
+
+input.submit:hover {
+    background-color: #192de1;
+}
+
+input.submit:active {
+    background-color: rgb(30, 210, 93);
+}
+
+input.text {
+    color: #ff00ea;
+}
+
+input.text:focus {
+    color: #00ff33;
+}

@@ -1,0 +1,49 @@
+#principal {
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(32, 148, 0);
+    padding: 20px;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+ul {
+    text-align: center;
+    border-top: 4px solid #0088dd;
+    border-bottom: 4px solid #0088dd;
+}
+li {
+    display: inline-block;
+    margin: 10px 17px 10px 17px;
+    text-transform: uppercase;
+}
+
+a {
+    padding: 5px;
+}
+a:link {
+    color: rgb(255, 0, 238);
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(5, 172, 30);
+}
+a:hover {
+    background-color: blueviolet;
+    color: white;
+}
+a:active {
+    color: aqua;
+}
+
+.imagem {
+    width: 200px;
+    height: 200px;
+}
+
+figure {
+    text-align: center;
+}

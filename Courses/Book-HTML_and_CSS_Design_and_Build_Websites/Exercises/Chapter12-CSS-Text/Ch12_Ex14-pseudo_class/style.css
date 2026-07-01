@@ -1,0 +1,17 @@
+a:link {
+    color: deeppink;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: rgb(72, 255, 72);
+    text-decoration: underline;
+}
+
+a:active {
+    color: darkorchid;
+}

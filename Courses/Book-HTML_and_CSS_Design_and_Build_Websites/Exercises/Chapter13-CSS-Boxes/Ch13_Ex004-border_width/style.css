@@ -1,0 +1,18 @@
+p.one {
+    border-color: red;
+    border-style: solid;
+    border-width: 2px;
+}
+
+p.two {
+    border-color: rgb(230, 15, 241);
+    border-style: dashed;
+    border-width: thick;
+}
+
+p.three {
+    border-color: rgb(1, 152, 41);
+    border-style: solid;
+    border-width: 1px 4px 12px 7px;
+}
+

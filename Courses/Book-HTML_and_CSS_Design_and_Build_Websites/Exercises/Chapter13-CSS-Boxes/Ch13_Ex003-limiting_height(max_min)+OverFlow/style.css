@@ -1,0 +1,32 @@
+h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;
+}
+
+h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+}
+
+p {
+    min-height: 30px;
+    max-height: 50px;
+    background-color: rgb(150, 232, 232);
+}
+
+#checagem_1 {
+    color: rgb(0, 168, 50);
+}
+
+#checagem_2 {
+    color: rgb(212, 87, 87);
+}
+
+#over_1 {
+    overflow: hidden;
+}
+
+#over_2 {
+    overflow: scroll;
+}

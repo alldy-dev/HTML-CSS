@@ -1,0 +1,17 @@
+.titulos {
+    border-bottom: 1px solid #113cff;
+    color: blue;
+}
+
+.img_size {
+    width: 100px;
+    height: 100px;
+}
+
+td.descriptions {
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+}

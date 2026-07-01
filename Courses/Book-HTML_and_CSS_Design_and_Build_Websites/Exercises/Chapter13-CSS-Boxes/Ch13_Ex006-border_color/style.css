@@ -1,0 +1,10 @@
+p.one {
+    border-style: solid;
+    border-color: red;
+}
+
+p.two {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #bbbbaa #1ab50c #ee3e80 #0088dd;
+}
