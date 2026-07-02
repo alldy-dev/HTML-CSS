@@ -1,0 +1,16 @@
+#nada {
+    list-style-type: none;
+}
+
+#bolinha_cheia {
+    list-style-type: disc;
+}
+
+#bolinha_vazia {
+    list-style-type: circle;
+}
+
+#quadradinho {
+    list-style-type: square;
+}
+

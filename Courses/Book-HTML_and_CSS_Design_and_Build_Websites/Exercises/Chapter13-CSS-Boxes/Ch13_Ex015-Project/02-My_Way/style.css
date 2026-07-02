@@ -30,7 +30,7 @@ a {
     padding: 5px;
 }
 a:link {
-    color: rgb(255, 0, 238);
+    color: rgb(255, 128, 0);
     text-decoration: none;
 }
 a:visited {
